@@ -1,2 +1,2 @@
 # Hello-World-Project
-just another repository
+just another repository of master
